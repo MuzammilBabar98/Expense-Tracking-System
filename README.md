@@ -1,4 +1,4 @@
-Expense Management System
+**Expense Management System**
 
 A full-stack Expense Management System built with a FastAPI backend and a Streamlit frontend.
 The system allows users to record, view, and manage expenses through a lightweight web interface backed by a RESTful API.
@@ -43,3 +43,4 @@ The backend must be running before starting the frontend.
 The project is intended for learning and experimentation but follows production-style separation of concerns.
 
 Can be easily extended with authentication, database persistence, or cloud deployment.
+
